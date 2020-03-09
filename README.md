@@ -1,5 +1,10 @@
 # assignment-2-test-environment
 
-This project is currently at **DRAFT** status (I'd like to check for any bugs and discrepancies with the project spec).
+Please add your group's user names and full first/second names below
 
-Note that the draft project spec is on Vision.
+| Username        | Surname        | Firstname  |
+| ------------- |:-------------:| -----:|
+| Username1     | Surname1       | Firstname1 |
+| etc           | etc      |  etc |
+| etc           | etc       |    etc |
+
