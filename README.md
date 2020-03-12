@@ -10,3 +10,4 @@ Please add your group's user names and full first/second names below
 | etc           | etc         |    etc     |
 | etc           | etc         |    etc     |
 
+Now contains ExtrinsicSyncTest.java as an example test (but no ExtrinsicSync class)
